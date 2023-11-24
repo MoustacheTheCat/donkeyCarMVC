@@ -1,0 +1,16 @@
+{
+    "name": "moustache/new-donkey-car",
+    "description": "reboot projet Donkey car with MVC and PO",
+    "autoload": {
+        "psr-4": {
+            "Moustache\\NewDonkeyCar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MoustacheTheCat",
+            "email": "joubert.mathieu753783@gmail.com"
+        }
+    ],
+    "require": {}
+}
